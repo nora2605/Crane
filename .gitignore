@@ -1,0 +1,9 @@
+packages/
+.vs/
+bin/
+obj/
+Properties/
+*.config
+*.pfx
+*.xml
+*.xsd
